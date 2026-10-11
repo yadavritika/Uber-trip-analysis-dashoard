@@ -32,6 +32,7 @@ Data Cleaning | Exploratory Data Analysis | SQL | Python | Power BI | Data Visua
 
 Project Preview 
 
+<img width="1230" height="787" alt="Screenshot 2026-10-11 140737" src="https://github.com/user-attachments/assets/1d63f44a-0ba4-4e05-b90f-bd945aaeee4f" />
 
 
 
